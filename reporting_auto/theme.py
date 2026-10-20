@@ -1,0 +1,7 @@
+"""Palette commune à l'Excel et au PowerPoint."""
+BLEU_FONCE = "0B3C5D"
+BLEU_MOYEN = "1D6A96"
+ORANGE = "D9640E"
+GRIS_CLAIR = "F2F5F7"
+VERT_OK = "1E7B4D"
+ROUGE_KO = "B3261E"

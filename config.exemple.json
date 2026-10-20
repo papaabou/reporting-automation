@@ -1,0 +1,15 @@
+{
+  "titre": "Ventes — Région Ouest",
+  "top_produits": 5,
+  "tableaux": {
+    "equipes": {
+      "feuille": "by team",
+      "colonnes": {
+        "equipe": ["team", "équipe"],
+        "ventes_n1": ["sales last year"],
+        "budget": ["target"],
+        "ventes": ["sales this year"]
+      }
+    }
+  }
+}

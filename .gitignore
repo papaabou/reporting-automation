@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+demo_out/
+# Ne jamais versionner de vraies données
+*.xlsb
+data/
